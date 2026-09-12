@@ -1,8 +1,7 @@
 <h1 align="center">Hello there! :wave: </h1>
 <h2>About Me</h2>
 <ul>
-  <li>:basketball: I'm a former college/professional basketball player who is learning how to code!</li>
-  <li>:eye: I am an incoming master's student at the University of North Carolina School of Information and Library Science.</li>
+  <li>:eye: I am a current master's student at the University of North Carolina School of Information and Library Science.</li>
   <li>:desktop_computer: I enjoy all things coding!</li>
 </ul>
 
